@@ -1,0 +1,1 @@
+This program uses a weights trained using YOLOv8 to detect the strip (a elongated peice of paper with information regarding flight details), mainly written by the aitraffic contollers and will segragate it if its arrival or departure.
